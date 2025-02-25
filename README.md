@@ -16,3 +16,10 @@ As it is a CDS webhook, when a patient is viewed, the webhook is launched. It ob
 6. Lifestyle Factors
 
 And then feeds this all into ChatGPT-4o to predict the patient's life expectancy and also give them some tips to live longer.
+
+# Predictive accuracy
+Since it uses the advanced ChatGPT-4o LLM and utilizes the patient's age, gender and medical history, the accuracy should be very precise.
+
+# Potential impact
+LLM for Healthcare can greatly improve patients' outlooks, longevity and lifestyle. A patient that may not like the lifespan expectation
+that he or she sees, can modify their current situation or habits, hopefully increasing that number.
